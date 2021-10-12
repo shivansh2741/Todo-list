@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+button{
+    margin: 11px 0px
+}
+.heading h1{
+    margin: 34px -2px;
+}
+#notes {
+    margin: 13px -31px;
+}
+.head h1{
+    margin: 34px -6px;
+}
